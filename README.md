@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-org/fastapi-task-manager.git
+   git clone https://github.com/mrInsaf/fastapi-task-manager.git
    cd fastapi-task-manager
    ```
 
@@ -47,7 +47,7 @@
 
 1. Клонируйте репозиторий:
    ```powershell
-   git clone https://github.com/your-org/fastapi-task-manager.git
+   git clone https://github.com/mrInsaf/fastapi-task-manager.git
    cd fastapi-task-manager
    ```
 
