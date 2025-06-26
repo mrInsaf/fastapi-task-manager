@@ -40,7 +40,7 @@
 3. Обновите pip и установите зависимости:
    ```bash
    pip install --upgrade pip
-   pip install fastapi uvicorn pydantic
+   pip install -r requirements.txt
    ```
 
 ### Windows 10/11
@@ -59,7 +59,7 @@
 
 3. Обновите pip и установите зависимости:
    ```powershell
-   pip install fastapi uvicorn pydantic
+   pip install -r requirements.txt
    ```
 
 ## Запуск приложения
